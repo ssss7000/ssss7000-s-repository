@@ -1,0 +1,8 @@
+.settings/
+bin/
+.classpath
+.project
+DS_Store
+Copy1.txt
+Copy2.txt
+Data.txt
